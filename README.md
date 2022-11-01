@@ -13,11 +13,13 @@
 <img src="https://img.shields.io/badge/YOLO-00FFFF.svg?&style=for-the-badge&logo=YOLO&logoColor=white">
 <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Google Colab&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GAN-3776AB?style=for-the-badge&logo=Gitpod&logoColor=white">
+
 </div>
 
 <br/>
 
 ## 프로젝트 목표
-:heavy_check_mark:  AnoGAN을 이용하여 데이터 증강  <br/>
+:heavy_check_mark:  DCGAN, ANOGAN을 이용하여 데이터 증강  <br/>
 :heavy_check_mark:  Yolov5를 이용하여 결함검출 모델 학습 <br/>
 :heavy_check_mark:  학습한 모델을 웹페이지로 제작
