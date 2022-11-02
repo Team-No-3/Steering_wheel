@@ -25,3 +25,10 @@
 :heavy_check_mark:  DCGAN, ANOGAN을 이용하여 데이터 증강  <br/>
 :heavy_check_mark:  Yolov5를 이용하여 결함검출 모델 학습 <br/>
 :heavy_check_mark:  학습한 모델을 웹페이지로 제작
+
+* <h2>Dataset</h2>
+    - 핸들 버튼 데이터 <br/>
+![IMG_8594 (2)](https://user-images.githubusercontent.com/93966720/199412090-76cb557e-deda-4da7-9fc4-7494f1578d21.jpg)
+
+* <h2>Details</h2>
+![IMG_8594 (1) (1)](https://user-images.githubusercontent.com/93966720/199412992-db36e357-1a90-4348-9aec-9016386a8cec.jpg)
