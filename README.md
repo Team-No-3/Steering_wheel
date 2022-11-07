@@ -31,4 +31,4 @@
 ![IMG_8594 (2)](https://user-images.githubusercontent.com/93966720/199412090-76cb557e-deda-4da7-9fc4-7494f1578d21.jpg)
 
 * <h2>Details</h2>
-![IMG_8594 (1) (1)](https://user-images.githubusercontent.com/93966720/199412992-db36e357-1a90-4348-9aec-9016386a8cec.jpg)
+![9](https://user-images.githubusercontent.com/93966720/200234413-7d6619ce-2978-4b52-8ceb-1a8dac2e6024.jpg)
