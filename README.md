@@ -1,5 +1,5 @@
 ## 🚗 Steering wheel Defect Detection 
-## [디지털스마트부산아카데미 1기] GAN 알고리즘을 이용한 Steering whieel 결함검출
+### [디지털스마트부산아카데미 1기] GAN 알고리즘을 이용한 Steering whieel 결함검출
 <br/>
 
 ***
