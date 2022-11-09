@@ -30,5 +30,9 @@
     - 핸들 버튼 데이터 <br/>
 ![IMG_8594 (2)](https://user-images.githubusercontent.com/93966720/199412090-76cb557e-deda-4da7-9fc4-7494f1578d21.jpg)
 
-* <h2>Details</h2>
+* <h2>TrueData Details</h2>
+    - 정상 <br/>
 ![9](https://user-images.githubusercontent.com/93966720/200234413-7d6619ce-2978-4b52-8ceb-1a8dac2e6024.jpg)
+* <h2>FalseData Details</h2>
+    - 비정상 <br/>
+![f5](https://user-images.githubusercontent.com/93966720/200717582-61cd780c-cf2d-4366-af86-a955ae5cf091.jpg)
