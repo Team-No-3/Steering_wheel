@@ -1,0 +1,33 @@
+<!--AnoGAN결과 이미지 출력-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>	
+<div class="side-page-main-div">
+    <table align="center">
+        <tr>
+            <td><h2 align="center">Input Image</h2></td>
+            <td><h2 align="center">After AnoGAN_G</h2></td>
+            <td><h2 align="center">After AnoGAN_D</h2></td>
+        </tr>
+        <tr align="center">
+            <td><img class='user_img' src="{{url_for('static', filename=user_img)}}"></td> <!--유저 입력 이미지 출력-->
+            <td><img class='AnoGAN_G_img' src="{{url_for('static', filename=AnoGAN_G_img)}}"></td> <!--Anogan G 사용후 생성된 이미지 출력-->
+            <td><img class="AnoGAN_D_img" src="{{url_for('static', filename=AnoGAN_D_img)}}"></td><!--AnoGAN_D 처리 후 이미지-->
+        </tr>
+        <tr>
+            <td colspan="2"><h2 align="center" style="color: #8C1DF3">result AnoGAN</h2></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center"><img class="AnoGAN_R_img" src="{{url_for('static', filename=AnoGAN_R_img)}}"></td>
+        </tr>
+    </table>
+</div>
+    
+</body>
+</html>

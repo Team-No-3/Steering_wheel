@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>	
+<div class="side-page-main-div">
+    <table align="center">
+        <tr>
+            <h2 align="center">Input Image</h2>
+        </tr>
+        <tr align="center">
+            <img src="data:image/jpeg;base64,{{original}}">
+            <!-- 입력받은 이미지 출력 -->
+        </tr>
+        <tr>
+            <colspan="2"><h2 align="center" style="color: #8C1DF3">After Yolov5</h2>
+        </tr>
+        <tr>
+            <img src="data:image/jpeg;base64,{{result}}">
+            <!--yolov5 처리후 결과 이미지-->
+        </tr>
+    </table>
+</div>
+    
+</body>
+</html>

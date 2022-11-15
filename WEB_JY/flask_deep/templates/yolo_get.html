@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Flask image get</title>
+    </head>
+    <body>    
+        <br>
+        <h1 align="center">Yolov5</h1>
+        <br>
+        <form align="center" action="/yolo_post" method="POST" enctype="multipart/form-data">
+            <h2 align="center">Input Image</h2>
+            <input type="file" name="file" id="file" class="form-control" accept=".png, .jpg, .jpeg" multiple><!--이미지 입력받는 부분-->
+            <input type="submit" id='predict'class="btn btn-success" value="확인"/>
+            <br><br>
+            <div align="center" id='view_area'></div>
+            <br>
+
+        </form>
+        <br><br><br>
+     
+    </body>
+    </html>
