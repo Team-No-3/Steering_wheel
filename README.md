@@ -38,3 +38,23 @@
 * <h2>FalseData Details</h2>
     - 비정상 <br/>
 ![f5](https://user-images.githubusercontent.com/93966720/200717582-61cd780c-cf2d-4366-af86-a955ae5cf091.jpg)
+
+* <h2>Result<h2>
+    
+  
+- YOLO Detect  </br>
+![yolov5l불량검출이미지 (1)](https://user-images.githubusercontent.com/93966720/202052917-c056bd6d-002b-4924-962e-24b29b5e68c3.jpg)
+  
+- XceptionNet Detect </br>
+![XceptionNet불량검출실패 (1)](https://user-images.githubusercontent.com/93966720/202052957-5b6deddf-26d4-4c4f-9b90-0c1a18999f02.jpg)
+  
+- DCGAN 생성이미지 </br>
+![DCGAN생성이미지 (1)](https://user-images.githubusercontent.com/93966720/202052854-e838bef0-c8fb-4d64-8cbb-ad9840fa0271.jpg)
+
+- Web 구현 </br>
+![KakaoTalk_20221116_093534819](https://user-images.githubusercontent.com/93966720/202055315-3928d2bb-56d2-4e50-ab38-134e99c38ac6.jpg)
+![KakaoTalk_20221116_093534819_01](https://user-images.githubusercontent.com/93966720/202055360-5563ef53-18c6-4d88-887f-059ff383886a.jpg)
+
+## :pushpin: 참고
+*  YOLOv5 https://github.com/ultralytics/yolov5.git
+*  AnoGAN, DCGAN  https://github.com/yjucho1/anoGAN.git  
